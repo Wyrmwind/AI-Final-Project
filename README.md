@@ -97,9 +97,9 @@ The Random Forest classifier was optimized using GridSearchCV for hyperparameter
 Key features for prediction include budget, genre, director track record, and IMDb ratings.
 
 ## 👥 Contributors
-- **Fatima AL Hashedi** - Data Analysis & Methodology
-- **Htet Myet Ko** - Machine Learning Models
-- **Aye Nyein Han** - Visualization & Reporting
+- **Fatima AL Hashedi** - Visualization & Reporting
+- **Htet Myet Ko** - Data Analysis & Methodology
+- **Aye Nyein Han** - Machine Learning Models
 
 ## 📚 References
 This project builds upon research in entertainment economics, statistical learning, and big data analytics. Key references include works by Vogel, De Vany, Eliashberg, and contemporary machine learning literature.
